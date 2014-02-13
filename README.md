@@ -6,6 +6,12 @@ Simplified Javascript Cookie creation
 Plugin to create, read and delete cookies in javascript with ease.
 ###Usage
 
+```html
+<script type="text/javascript" src="jquery.js"/>
+<!-- Must include jQuery before including plugin -->
+<script type="text/javascript" src="jquery.cart.js">
+```
+
 $.cookie global variable contains all the method to set, read and delete cookies.
 
 ```javascript
